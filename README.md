@@ -1,0 +1,4 @@
+- 👋 Hola! Soy Johnwell!
+- 👀 Estoy Interesado en ser un Programador Profesional en un Futuro!
+- 🌱 Actualmente estoy estudiando python!
+- 💞️ Aun no estoy interesado en colaborar, pero hagamos un intento!
